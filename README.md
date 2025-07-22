@@ -29,10 +29,9 @@ L’objectif est de mener une **analyse exploratoire** des ventes de la librairi
 - `P4_01_scriptdonnees.py` # Script de nettoyage des données
 - `P4_02_scriptanalyse.py` # Script d’analyse et de visualisation
   
-**images/**
-- histogramme.png
-- boxplot_age.png
-- courbe_lorenz.png
+**visualizations/**
+
+Graphiques issus de l’analyse (histogrammes, boxplots, etc.)
 
 **présentation/**  
 - `presentation.pptx` : Fichier PowerPoint utilisé lors de la soutenance pour présenter les objectifs, la méthodologie et les résultats.
